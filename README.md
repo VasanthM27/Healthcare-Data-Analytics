@@ -8,7 +8,7 @@ This project focuses on analyzing patient data to extract key insights and impro
 - **Excel** (Data Transformation)
 - **DAX Queries**
 
-## Project Benefits
+## Project use cases
 - **Improved patient management** through identification of key trends such as patient satisfaction and average wait times.
 - **Actionable insights for resource allocation** based on patient data analysis (e.g., administrative privileges and patient wait times).
 - **Visual representation** of healthcare metrics to aid stakeholders in decision-making.
