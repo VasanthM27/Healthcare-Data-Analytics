@@ -1,7 +1,7 @@
 # Healthcare Analytics Project Overview
 
 This project focuses on analyzing patient data to extract key insights and improve healthcare operations. The dataset includes various attributes such as patient demographics, satisfaction scores, wait times, and department referrals. By using Power BI for data visualization and DAX queries for analysis, this project aims to provide actionable insights to optimize patient management and enhance overall satisfaction.
-https://github.com/VasanthM27/Healthcare-Data-Analytics/blob/main/data/Screenshot%20(103).png?raw=true
+
 
 ## Programming Languages and Tools Used
 - **Power BI** (Data Modeling, DAX Queries)
@@ -46,6 +46,9 @@ A fully interactive **Power BI dashboard** was developed to showcase key finding
 - Insights into administrative privileges.
 - Satisfaction scores and trends.
 - Average wait times by department.
+
+### Visualized insights in PowerBI
+<img src="https://github.com/VasanthM27/Healthcare-Data-Analytics/blob/main/data/Screenshot%20(103).png?raw=true"/></br>
 
 ## DAX Queries Used
 - **Measure 1**: Total patients over time.
